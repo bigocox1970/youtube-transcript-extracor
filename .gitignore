@@ -19,6 +19,10 @@ Thumbs.db
 # Application-specific files
 config.json
 *.log
+system_gui.py
+panel_gui.py
+system_config.json
+panel_config.json
 
 # Temporary files
 *.tmp
