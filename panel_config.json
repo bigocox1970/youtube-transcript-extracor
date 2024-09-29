@@ -1,0 +1,15 @@
+{
+  "panels": [
+    {
+      "name": "pyronix enforcer",
+      "searches": [
+        {
+          "query": "Pyronix Enforcer How To Guides",
+          "output_directory": "Z:/PERIMETER/engineering/manuals/Pyronix/transcripts",
+          "num_videos": 20
+        }
+      ]
+    }
+  ],
+  "schedule_time": "02:00"
+}

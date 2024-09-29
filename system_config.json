@@ -1,0 +1,27 @@
+{
+  "systems": [
+    {
+      "name": "pyronix enforcer",
+      "searches": [
+        {
+          "query": "Pyronix Enforcer How To Guides",
+          "channel": "Electrical Innovations",
+          "output_directory": "Z:/PERIMETER/engineering/manuals/Pyronix/enforcer/transcripts",
+          "num_videos": 5
+        }
+      ]
+    },
+    {
+      "name": "pyronix euro 46",
+      "searches": [
+        {
+          "query": "Pyronix euro 46",
+          "channel": "",
+          "output_directory": "Z:/PERIMETER/engineering/manuals/Pyronix/euro 46/transcripts",
+          "num_videos": 5
+        }
+      ]
+    }
+  ],
+  "schedule_time": "02:00"
+}
